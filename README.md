@@ -1,4 +1,9 @@
 # CS3398-Changelings-S2019
+  ## Project Name:
+  
+  ## Description:
+  We are creating a Discord Bot that is able to search for recipes with a certain ingredient.
+  
   ## Team Members:
   > Dalton Melville,
   > Nicole Runas,
