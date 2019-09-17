@@ -1,5 +1,6 @@
 # CS3398-Changelings-S2019
   ## Project Name:
+  SLICER
   
   ## Description:
   We are creating a Discord Bot that is able to search for recipes with a certain ingredient. This will be for those who love to cook or what to love to cook but don't have time or the knowledge to find recipes on their own.
