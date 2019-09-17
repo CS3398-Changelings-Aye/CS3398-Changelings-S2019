@@ -10,7 +10,7 @@
   > Nicole Runas,
   > Sebastian Santana,
   > Nisa Lateef,
-  > Wilson Benetiz
+  > Wilson Benitez
 
 ## Table of Contents
 * [General info](#general-info)
