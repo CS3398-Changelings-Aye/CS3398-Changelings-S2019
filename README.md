@@ -11,7 +11,7 @@
   > Nicole Runas,
   > Sebastian Santana,
   > Nisa Lateef,
-  > Wilson Benetiz
+  > Wilson Benitez
 
 ## Table of Contents
 * [General info](#general-info)
@@ -30,4 +30,4 @@
 * Show Searching: Allows the user to search for a show.
 * Recipe Searching: Allows the user to search for a recipe with given Ingredients.
 * Ingredient choosing: Allows user to search for recipes using one specific ingredient.
-
+* Meats choosing: Allows users to choose a kind of meat additionaly to ingredients and finding the best recipe for you.
