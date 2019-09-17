@@ -31,3 +31,4 @@
 * Recipe Searching: Allows the user to search for a recipe with given Ingredients.
 * Ingredient choosing: Allows user to search for recipes using one specific ingredient.
 * Meats choosing: Allows users to choose a kind of meat additionaly to ingredients and finding the best recipe for you.
+* Meal Type Choosing: Allows the user the choose what type of meal they're looking for. Healthy, vegan, protein, etc.
