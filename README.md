@@ -1,6 +1,5 @@
 # CS3398-Changelings-S2019
   ## Project Name:
-  GIGABite
   ![alt_text](https://github.com/CS3398-Changelings-Aye/CS3398-Changelings-S2019/blob/master/LogoMakr_3yOZ1T.png)
   
   ## Description:
