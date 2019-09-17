@@ -1,9 +1,9 @@
 # CS3398-Changelings-S2019
   ## Team Members:
-  > Dalton Melville
-  > Nicole Runas
-  > Sebastian Santana
-  > Nisa Lateef
+  > Dalton Melville,
+  > Nicole Runas,
+  > Sebastian Santana,
+  > Nisa Lateef,
   > Wilson Benetiz
 
 ## Table of Contents
