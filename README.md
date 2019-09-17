@@ -1,8 +1,7 @@
 # CS3398-Changelings-S2019
   ## Project Name:
- [![alt_text](https://github.com/CS3398-Changelings-Aye/CS3398-Changelings-S2019/blob/master/LogoMakr_2XS1nE.png)](https://discord.gg/3EWYfUb)
- 
- [![Logo](https://cl.ly/ae0979e60b70/Image%202019-03-20%20at%201.15.02%20PM.png)](https://trujamal.com)
+
+ [![Logo](https://github.com/CS3398-Changelings-Aye/CS3398-Changelings-S2019/blob/master/LogoMakr_2XS1nE.png)](https://discord.gg/3EWYfUb)
   
   ## Description:
   We are creating a Discord Bot that is able to search for recipes with a certain ingredient. This will be for those who love to cook or what to love to cook but don't have time or the knowledge to find recipes on their own. It is being done in order to offer a simplistic and easy way to obtain a variety of different recipes without the hastle of searching through blogs. 
